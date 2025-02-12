@@ -1,5 +1,4 @@
-## Hi there 👋
-
+#### rebuilding gpu's for robots, visual perception research and more
 <!--
 **Sapf3ar/Sapf3ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
