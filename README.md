@@ -1,4 +1,10 @@
-#### rebuilding gpu's for robots, visual perception research and more
+#### building sota ocr for low-resource handwritten text @ norsi
+
+
+
+- _rsna 2023 bronze_
+- _won hackatons with total prize >10k$_ 
+
 <!--
 **Sapf3ar/Sapf3ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
