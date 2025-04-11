@@ -1,4 +1,4 @@
-#### building sota ocr for low-resource handwritten text @ norsi
+#### building sota ocr for low-resource handwritten text
 
 
 
